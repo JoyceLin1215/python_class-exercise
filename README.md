@@ -7,8 +7,8 @@ Below is the assignment list. Please click the "Assignment" cells for more detai
 
 | No. | Assignment | Description|
 |:----|:-----------|:-----------|
-| 1.  |Build a Christmas tree | Write a code that prints a isosceles triangle with more than 3 tiers. |
-|2.   | Make change | Prompt the user for cost of a product and amount paid, then output change in $1, $5, $10, $50, $100, and $1000.
+| 1.  |[Build a Christmas tree](https://github.com/JoyceLin1215/python_class-exercise/blob/7d9b9ef5bb67b5e5e62a36e49c7097a072b4cdba/Build_a_Cristmas_tree.py) | Write a code that prints a isosceles triangle with more than 3 tiers. |
+|2.   | [Make change](https://github.com/JoyceLin1215/python_class-exercise/blob/7cd20fda068027a88ab7daa8f85d3553f271adb5/Make_Change.py) | Prompt the user for cost of a product and amount paid, then output change in $1, $5, $10, $50, $100, and $1000.
 
 ### Part2 : Functions
 *Ongoing*
